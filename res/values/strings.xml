@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PainelDigital</string>
+    <string name="button">OK</string>
+    <string name="top_content">000</string>
+    <string name="sub_content">000</string>
+    <string name="logo">logo</string>
+
+</resources>
